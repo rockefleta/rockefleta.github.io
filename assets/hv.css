@@ -1,0 +1,7 @@
+body *{
+    transition: transform 0.5s!important;
+}
+
+body *:hover{
+    transform: rotate(180deg)!important;
+}
